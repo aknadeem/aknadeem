@@ -1,4 +1,4 @@
-### Hi I'm Nadeem Ahmed 👋
+### Hi, I'm Nadeem Ahmed 👋
 
 a <b><i>Full-Stack Developer</i></b>, having more than 4 years of experience in software development, I’ve gained insight into a large
 area of technical domains ranging from both front-end & back-end development as well as
