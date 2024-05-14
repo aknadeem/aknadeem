@@ -1,9 +1,10 @@
-### Hi, I'm Nadeem Ahmed 👋
+### Hi, I'm Nadeem Ahmed
+I'm a <b><i>Senior Software Engineer</i></b> with over 7 years of experience in software development. My expertise spans both front-end and back-end development, system architecture, and database infrastructure. I specialize in <a href="https://www.php.net/" target="_blank">PHP</a>, <a href="https://www.javascript.com/" target="_blank">JavaScript</a>, and <b>relational databases</b>, particularly with frameworks and technologies such as  <a href="https://laravel.com/docs/11.x/readme" target="_blank">Laravel</a>, <a href="https://graphql.org/learn/" target="_blank">GraphQL</a>, <a href="https://restfulapi.net/" target="_blank">RESTful APIs</a>, <a href="https://www.mysql.com/" target="_blank">Mysql</a>, and  <a href="https://laravel-livewire.com" target="_blank">Livewire</a>.
 
-a <b><i>Full-Stack Developer</i></b>, having more than 6 years of experience in software development, I’ve gained insight into a large
-area of technical domains ranging from both front-end & back-end development as well as
-system architecture and Database infrastructure.
-I’ve been heavily invested in the <a href="https://www.php.net/" target="_blank">Php</a>, <a href="https://www.python.org/" target="_blank"> Python </a> and <b> Relational Databases </b> and have in-depth knowledge and experience with <a href="https://laravel.com/" target="_blank"> Laravel </a>, <a href="https://docs.djangoproject.com/en/3.2/" target="_blank">  Django </a>, <a href="https://www.javascript.com/" target="_blank">  Javascript </a>, <a href="https://graphql.org/" target="_blank"> Graphql </a>, <b> RestApi </b>, <a href="https://www.mysql.com/" target="_blank">  Mysql </a>, and <a href="https://www.postgresql.org/" target="_blank">  Postgresql </a>. Additionally, I have a great interest in infrastructure and build-systems.
+Currently, I'm focused on <a href="https://filamentphp.com/" target="_blank">Filament</a>, an advanced toolkit for building administrative interfaces in Laravel applications. Filament allows for the rapid development of admin panels, form builders, and data tables, all powered by Livewire. My work involves optimizing Filament for speed and reliability, ensuring robust and efficient systems.
+
+I'm dedicated to writing clean, high-performance code and thrive in challenging projects. As a friendly and enthusiastic team player, I'm committed to continuous learning and growth in the ever-evolving tech landscape.
+
 <!--
 **aknadeem/aknadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
